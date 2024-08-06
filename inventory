@@ -1,3 +1,4 @@
-192.168.140.133
-192.168.140.134
-192.168.140.135
+[servers]
+192.168.140.133 ansible_user=psyduck
+192.168.140.134 ansible_user=psyduck
+192.168.140.135 ansible_user=psyduck
